@@ -1,1 +1,1 @@
-# musicapp.github.io
+Created a resposive music app using HTML, CSS and JavaScript. It will have a play, previous and next button with s progress bar. It will also had play time and a rotating image at the center. It will change the song after the completion of previous song.
